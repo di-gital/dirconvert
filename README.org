@@ -1,0 +1,11 @@
+* Dirconvert
+Dirconvert is a shell script to convert all of the files in one
+directory (typically a musical album) into a another format in a new
+directory. It is just a tool for me to convert my audio library across
+different formats.
+
+* Running
+#+BEGIN_SRC 
+chmod +x dirconvert
+./dirconvert.sh
+#+END_SRC
